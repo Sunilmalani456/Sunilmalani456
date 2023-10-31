@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Web+Developer;React+js+|+Next+js+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about web3 and blockchain
-- ⚡ Hobbies: I love to listen music and play outdoor sports
+- 🌱 I’m currently learning everything 🤣.
+- 🥅 2023 Goals: Learn more about web3 and blockchain.
+- ⚡ Hobbies: I love to listen music and play outdoor sports.
 - 💬 About: I enjoy building sites & apps. My focus is React.js (Next.js) 🌟.
 - 📫 Reach me: https://sunilmalani.vercel.app/
 
