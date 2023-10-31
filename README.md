@@ -2,7 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Web+Developer;React+Js+|+Next+Js+Developer🌟;Blockchain+Developer+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Web+Developer;React+Js+|+Next+Js+Developer;Blockchain+Developer+🌟)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣.
 - 🥅 2023 Goals: Learn more about web3 and blockchain.
